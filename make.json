@@ -1,7 +1,8 @@
 {
-  "audi": "Audi",
-  "bmw": "BMW",
-  "citroen": "Citroen",
-  "mini": "MINI",
-  "volkswagen": "Volkswagen"
+  "Audi": "Audi",
+  "BMW": "BMW",
+  "Citroen": "Citroen",
+  "Mercedes": "Mercedes",
+  "MINI": "MINI",
+  "Volkswagen": "Volkswagen"
 }
