@@ -1,5 +1,5 @@
 {
-	aircon: "Air Conditioning",
-	ewindows: "Electric Windows",
-	emirrors: "Electric Mirrors"
+	Air Conditioning: "Air Conditioning",
+	Electric Windows: "Electric Windows",
+	Electric Mirrors: "Electric Mirrors"
 }
