@@ -1,5 +1,18 @@
 {
   "Air Conditioning":"Air Conditioning",
+  "Automatic Air Conditioning":"Automatic Air Conditioning",
+  "Auxiliary Input":"Auxiliary Input",
+  "Bluetooth":"Bluetooth",
+  "CD Player":"CD Player",
+  "Chrome Line Interior": "Chrome Line Interior",
+  "DAB Digital Radio":"DAB Digital Radio",
   "Electric Windows":"Electric Windows",
-  "Electric Mirrors":"Electric Mirrors"
+  "Electric Mirrors":"Electric Mirrors",
+  "Harman/Kardon HiFi":"Harman/Kardon HiFi",
+  "Leather Interior":"Leather Interior",
+  "Onboard Computer":"Onboard Computer",
+  "Panoramic Sunroof":"Panoramic Sunroof",
+  "Piano Black Interior":"Piano Black Interior",
+  "Sports Seats":"Sports Seats"
+  "USB Connection":"USB Connection",
 }
