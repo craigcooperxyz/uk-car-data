@@ -2,7 +2,13 @@
   "Audi": "Audi",
   "BMW": "BMW",
   "Citroen": "Citroen",
+  "Honda":"Honda",
+  "Jaguar":"Jaguar",
+  "Land Rover":"Land Rover",
   "Mercedes": "Mercedes",
   "MINI": "MINI",
+  "Nissan":"Nissan",
+  "Porsche":"Porsche",
+  "Toyota":"Toyota",
   "Volkswagen": "Volkswagen"
 }
